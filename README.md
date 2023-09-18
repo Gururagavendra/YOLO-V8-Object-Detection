@@ -25,5 +25,5 @@ To prepare the dataset for training, data annotation was performed using Roboflo
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-- GitHub: [Gururagavendra](https://github.com/ Gururagavendra)
+- GitHub: [Gururagavendra](https://github.com/Gururagavendra)
 
