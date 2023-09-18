@@ -1,4 +1,4 @@
-# CUstom Dataset Training on YOLO-V8
+# Custom Dataset Training on YOLO-V8
 
 ## Overview
 This project involves training a YOLOv8 (You Only Look Once version 8) object detection model on a custom dataset provided by BGSW (Bosch) during a 48-hour hackathon. The dataset includes raw images along with labeled annotations that include measurements of objects.
